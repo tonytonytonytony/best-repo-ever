@@ -1,2 +1,2 @@
-# best-repo-ever this is crap
+# best-repo-ever
 its all fine origin/master
